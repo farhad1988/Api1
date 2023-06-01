@@ -26,5 +26,5 @@ class SelectOneRow
 
 }
 
-$datas = new SelectOneRow("users1aa", ["aa", 123]);
+$datas = new SelectOneRow("users1aa11", ["aa", 123]);
 print_r($datas->viewData());
